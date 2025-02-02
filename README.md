@@ -99,15 +99,3 @@ Este stresser foi projetado apenas para **testes e simulações** em ambientes c
 **Code Stresser Test - MTA San Andreas**  
 Desenvolvido com 💻 por **[LucasDev]**  
 2025 - Todos os direitos reservados
-```
-
-### O que está incluído no README:
-
-1. **Introdução** ao projeto, explicando o propósito e os tipos de ataques.
-2. **Tecnologias usadas** para dar uma visão geral do que foi utilizado no desenvolvimento.
-3. **Passos para uso** do stresser, desde o clone do repositório até a execução.
-4. **Estrutura de diretórios** para mostrar como os arquivos estão organizados.
-5. **Instruções para contribuir** com o projeto, caso alguém queira ajudar.
-6. **Aviso legal** sobre o uso responsável da ferramenta.
-
-Esse README deve fornecer as informações necessárias para qualquer usuário ou colaborador interessado no projeto.
